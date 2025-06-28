@@ -42,6 +42,3 @@ Linux | Networking | Wireshark | Nessus | Threat Detection | Vulnerability Analy
 ## 📫 Let’s Connect!
 [LinkedIn – Diamond Simon](https://www.linkedin.com/in/diamond-simon-56621036a/)  
 📧 simondiamond655@gmail.com
-
-- ⚡ Fun fact: ...
--->
